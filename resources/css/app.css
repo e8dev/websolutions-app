@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(15, 30, 57) !important;
+    color: #fff;
+}
+
+h1.title{
+    color: #fff !important;
+    margin: 30px auto !important;
+}
+
+.mb-6 {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.calc-form{
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.schedule-table th, td{
+    padding:10px 20px !important;
+
+}
+
+.schedule-table-wrapper {
+    overflow-x: scroll !important;
+}
