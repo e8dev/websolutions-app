@@ -1,4 +1,4 @@
-
+Important: in this project we assume that store data in DB by providing http parameter "save_to_db". 
 
 ## Mortgage calculator
 
